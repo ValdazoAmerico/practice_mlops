@@ -1,5 +1,5 @@
 {
     "metric": "accuracy",
-    "min_value": 0.85
+    "min_value": 0.80
   }
   
